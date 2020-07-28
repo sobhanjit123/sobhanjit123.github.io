@@ -34,8 +34,8 @@
     margin-bottom: 2.5rem;
     margin-top:2.5rem;
    }
-.Cert{
-   text-allign: left ;
+#Cert{
+   text-allign: left !important ;
 }
 
   h3 {
